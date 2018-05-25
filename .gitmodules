@@ -1,3 +1,9 @@
 [submodule "onec-win-docker"]
 	path = onec-win-docker
 	url = https://github.com/VanessaDockers/onec-win-docker
+[submodule "ifaceDemo"]
+	path = ifaceDemo
+	url = https://github.com/arkuznetsov/ifaceDemo.git
+[submodule "EvtHUB"]
+	path = EvtHUB
+	url = https://github.com/arkuznetsov/EvtHub.git
